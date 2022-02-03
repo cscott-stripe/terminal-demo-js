@@ -1,6 +1,6 @@
 # Javascript Terminal Demo
 
-This demo can be used with the WisePOS E to show a checkout and payment experience.
+This demo can be used with the WisePOS E to show a checkout and payment experience. Credit to [@bnuttin-stripe](https://github.com/bnuttin-stripe) for all code.
 
 ## Features
 
